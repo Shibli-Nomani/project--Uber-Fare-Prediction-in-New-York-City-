@@ -110,7 +110,7 @@ mean_absolute_error, r2_score, explained_variance_score: Metrics for evaluating 
  Represents the proportion of variance in the dependent variable that is explained by the independent variables. Good value: Closer to 1, indicating a better fit of the model to the data.
 
 # ⭐ Summary
-Our KNN (K Nearest Neighbors) for Uber fare prediction shows good performance as compared to others. Through meticulous parameter tuning with GridSearchCV, we optimized the model to deliver highly accurate fare estimates. Moving forward, future enhancements could include exploring additional features, added different models, fine tuning, training with higher infrastructure, integrating real-time data, and enhancing user experience with a user-friendly interface. 🚖🔍🚀
+Our KNN (K Nearest Neighbors) for Uber fare prediction shows good performance as compared to others. Through meticulous parameter tuning with GridSearchCV, we optimized the model to deliver better accurate fare estimates. Moving forward, future enhancements could include exploring additional features, added different models, fine tuning, training with higher infrastructure, integrating real-time data, and enhancing user experience with a user-friendly interface. 🚖🔍🚀
 ## Authors
 
 - [@LinkedIn Khan MD Shibli Nomani](https://www.linkedin.com/in/khan-md-shibli-nomani-45445612b/)
