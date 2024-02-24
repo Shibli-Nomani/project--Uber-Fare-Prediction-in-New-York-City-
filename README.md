@@ -6,7 +6,7 @@
 
 👉 GitHub Code: https://github.com/Shibli-Nomani/project--Uber-Fare-Prediction-in-New-York-City-/blob/main/project_Uber_Fare_in_New_York_City_Dataset.ipynb
 
-👉 Kaggle Code: [https://www.kaggle.com/code/shiblinomani/uber-fare-rate-prediction-in-new-york-city](https://www.kaggle.com/code/shiblinomani/uber-fare-rate-prediction-in-new-york-city)
+👉 Kaggle Code: [[https://www.kaggle.com/code/shiblinomani/uber-fare-rate-prediction-in-new-york-city](https://www.kaggle.com/code/shiblinomani/uber-fare-rate-prediction-in-new-york-city)](https://www.kaggle.com/code/shiblinomani/uber-fare-rate-prediction-in-new-york-city)
 
 
 ### 🐍 About Dataset: 
