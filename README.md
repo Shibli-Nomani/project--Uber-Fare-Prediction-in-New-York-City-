@@ -1,5 +1,6 @@
 # 🚖Project: Uber Fare Rate Prediction in New York City using Regression Models
-![alt text](uberfare.png)
+![uberfare](https://github.com/Shibli-Nomani/project--Uber-Fare-Prediction-in-New-York-City-/assets/101654553/28dcb15e-33d6-4d1a-80c9-15f356ba7e0b)
+
 
 👉 Google Colab Code: https://colab.research.google.com/drive/1H3pNjBhPNxVNt37EQMbkHRW_-k2zOkN7?usp=sharing
 
